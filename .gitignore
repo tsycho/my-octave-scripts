@@ -1,0 +1,14 @@
+db/*.sqlite3
+log/*.log
+log/*.*
+*.log
+tmp/**/*
+doc/api
+doc/app
+*.swp
+*~
+.DS_Store
+.redcar
+*.lock
+*.lck
+
